@@ -12,11 +12,10 @@ results = c.text_search(query="brooklyn",fields="id,name,description")
 print results
 print type(results)
 
+# Test Array of sounds for testing CSV Writer
+test_array = []
 
 def download_sounds_allpages(results):
-
-    # Test Array of sounds for testing CSV Writer
-    test_array = []
 
     for sound in results:
         #sound.retrieve_preview(".",sound.name)
