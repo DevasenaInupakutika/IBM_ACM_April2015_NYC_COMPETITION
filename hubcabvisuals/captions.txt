@@ -1,0 +1,17 @@
+All images copyright MIT Senseable City Lab.
+
+
+hubcab01.png
+Screenshot of HubCab, showing pickups and drop offs of all 170 million taxi trips over one year in New York City.
+
+
+hubcab02.png
+Screenshot of HubCab, showing taxi flows and potential taxi sharing benefits between two locations in Manhattan.
+
+
+hubcab03.png
+Screenshot of HubCab, highlighting all taxi dropoff points in New York City of passengers who were picked up at Times Square daily between 12 PM and 3 PM.
+
+
+hubcab04.png
+Screenshot of HubCab, showing all taxi pickups and drop offs at JFK airport daily between 3AM and 6AM.
